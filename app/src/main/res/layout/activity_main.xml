@@ -1,0 +1,119 @@
+<RelativeLayout android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/gradient1">
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="12dp"
+            >
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="QUIZ APPLICATION"
+                android:textStyle="bold|italic"
+                android:textColor="@color/black"
+                android:textSize="45sp" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:contextClickable="true"
+                android:text="  CHAPTER 1"
+                android:textStyle="bold"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="serif"/>
+
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:contextClickable="true"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:fontFamily="serif"
+                android:textStyle="bold"
+                android:text="  CHAPTER 2"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:contextClickable="true"
+                android:text="  CHAPTER 3"
+                android:textStyle="bold"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="serif"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:contextClickable="true"
+                android:text="  CHAPTER 4"
+                android:textStyle="bold"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="serif"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:textStyle="bold"
+                android:contextClickable="true"
+                android:text="  CHAPTER 5"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="serif"/>
+
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/ch6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:textStyle="bold"
+                android:contextClickable="true"
+                android:text="  CHAPTER 6"
+                android:drawableLeft="@drawable/ic_baseline_icon"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="serif"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

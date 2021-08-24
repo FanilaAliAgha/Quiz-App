@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#081c15</color>
+    <color name="purple_500">#2d8659</color>
+    <color name="purple_700">#339966</color> <!--nav-->
+    <color name="teal_200">#48b1bf</color> <!--FF03DAC5--> <!--btn color-->
+    <color name="teal_700">#d8f3dc</color> <!--FF018786-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backcolor">#0d261a</color>
+    <color name="nayacolor">#0cebeb</color>
+    <color name="button">#48b1bf</color>
+    <!--<color name="card">#1b644b</color>-->
+
+
+</resources>

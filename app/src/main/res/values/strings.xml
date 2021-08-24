@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quiz_app</string>
+
+
+    <!--Attemptquiz-->
+
+    <string name="ch_7_packages_crates_modules">Ch 7: Packages, Crates, Modules</string>
+    <string name="ch_6_enums_pattern_matching">Ch 6: Enums, Pattern Matching</string>
+    <string name="ch_4_understanding_ownership">Ch 4: Understanding Ownership</string>
+    <string name="ch_3_common_concepts">Ch 3: Common Concepts</string>
+    <string name="ch_2_programming_a_game">Ch 2: Programming a Game</string>
+    <string name="ch_5_using_structs_to_structures">Ch 5: Using Structs to Structures</string>
+    <string name="ch_10_generic_traits_lifetimes">Ch 10: Generic, Traits, Lifetimes</string>
+    <string name="ch_9_error_handling">Ch 9: Error Handling</string>
+    <string name="ch_8_common_collections">Ch 8: Common Collections</string>
+    <string name="ch_1_introduction_to_rust">Ch 1: Introduction to Rust</string>
+    <string name="quiz">Quiz</string>
+
+
+    <!--Ch2Q-->
+    <string name="chapter2_programming_a_game">Chapter2: Programming a Game</string>
+    <string name="_1_to_set_up_a_new_project_which_command_is_used">1. To set up a new project,which command is used:</string>
+    <string name="cd_new_file_name">CD New File_name</string>
+    <string name="_2_which_file_contain_dependencies">2. Which file contain dependencies</string>
+    <string name="cargo_toml_file">Cargo.toml file</string>
+    <string name="cargo_build_file">cargo build file</string>
+    <string name="_3_this_command_is_used_to_run_the_code">3.This command is used to run the code:</string>
+    <string name="cargo_new_file_name">cargo new file_name</string>
+    <string name="Cargo_Run">Cargo Run</string>
+    <string name="cargo_run">cargo run</string>
+    <string name="next_2">Next</string>
+
+
+    <!--Book-->
+
+
+    <string name="naviagtion_drawer_open">open navigation drawerc</string>
+    <string name="naviagtion_drawer_close">naviagtion drawer close</string>
+    <string name="uploads">Upload</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
